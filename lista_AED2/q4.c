@@ -17,11 +17,11 @@ void exibir(float media){
 }
 
 int main(){
-    questao03();
+    questao04();
     return 0;
 }
 
-int questao03(){
+int questao04(){
     float salario, porcentagem, novo_salario;
     entrada(&salario, &porcentagem);
     novo_salario = processamento(salario, porcentagem);

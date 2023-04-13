@@ -19,11 +19,11 @@ void exibir(float x){
 }
 
 int main(){
-    questao03();
+    questao05();
     return 0;
 }
 
-int questao03(){
+int questao05(){
     float salario, salario_bruto;
     int dependentes;
     entrada(&salario, &dependentes);
