@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 
 void entrada(float *a){
     printf("digite a velocidade me km/h: ");
