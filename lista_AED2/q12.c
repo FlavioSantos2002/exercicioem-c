@@ -29,10 +29,10 @@ void saida(char texto[100]){
 }
 
 void main(){
-     questao11(); 
+     questao12(); 
 }
 
-void questao11(){
+void questao12(){
 
     float nota1, nota2;
     entrada(&nota1, &nota2);
