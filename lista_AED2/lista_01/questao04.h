@@ -1,0 +1,6 @@
+#ifndef QUESTAO04_H_INCLUDED
+#define QUESTAO04_H_INCLUDED
+
+int questao04();
+
+#endif // QUESTAO04_H_INCLUDED

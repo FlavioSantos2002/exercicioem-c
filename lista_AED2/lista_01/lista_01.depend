@@ -1,0 +1,195 @@
+# depslib dependency file v1.0
+1682106698 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"questao01.h"
+	"questao02.h"
+	"questao03.h"
+	"questao04.h"
+	"questao05.h"
+	"questao06.h"
+	"questao07.h"
+	"questao08.h"
+	"questao09.h"
+	"questao10.h"
+	"questao11.h"
+	"questao12.h"
+	"questao13.h"
+	"questao14.h"
+	"questao15.h"
+	"questao16.h"
+	"questao17.h"
+	"questao18.h"
+	"questao19.h"
+	"questao20.h"
+	"questao21.h"
+	"questao22.h"
+	"questao23.h"
+	"questao24.h"
+
+1682090718 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao01.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+
+1682090718 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao01.h
+
+1682091144 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao02.c
+	<stdio.h>
+	<stdlib.h>
+	"questao02.h"
+
+1682091144 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao02.h
+
+1682093560 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao03.h
+
+1682097080 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao03.c
+	<stdio.h>
+	<stdlib.h>
+	"questao03.h"
+
+1682097494 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao04.h
+
+1682097514 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao04.c
+	<stdio.h>
+	<stdlib.h>
+	"questao04.h"
+
+1682097760 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao05.c
+	<stdio.h>
+	<stdlib.h>
+	"questao05.h"
+
+1682097760 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao05.h
+
+1682097994 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao06.c
+	<stdio.h>
+	<stdlib.h>
+	"questao06.h"
+
+1682097994 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao06.h
+
+1682098188 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao07.h
+
+1682098222 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao07.c
+	<stdio.h>
+	<stdlib.h>
+	"questao07.h"
+
+1682098400 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao08.c
+	<stdio.h>
+	<stdlib.h>
+	"questao08.h"
+
+1682098400 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao08.h
+
+1682098562 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao09.h
+
+1682098562 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao09.c
+	<stdio.h>
+	<stdlib.h>
+	"questao09.h"
+
+1682098890 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao10.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"questao10.h"
+
+1682098890 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao10.h
+
+1682099116 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao11.h
+
+1682099116 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao11.c
+	<stdio.h>
+	"questao11.h"
+
+1682099304 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao12.h
+
+1682099304 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao12.c
+	<stdio.h>
+	"questao12.h"
+
+1682099718 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao13.c
+	<stdio.h>
+	"questao13.h"
+
+1682099718 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao13.h
+
+1682099894 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao14.c
+	<stdio.h>
+	"questao14.h"
+
+1682099894 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao14.h
+
+1682100126 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao15.c
+	<stdio.h>
+	"questao15.h"
+
+1682100126 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao15.h
+
+1682100680 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao16.c
+	<stdio.h>
+	"questao16.h"
+
+1682100680 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao16.h
+
+1682100896 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao17.c
+	<stdio.h>
+	"questao17.h"
+
+1682100896 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao17.h
+
+1682101340 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao18.h
+
+1682101788 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao18.c
+	<stdio.h>
+	<string.h>
+	"questao18.h"
+
+1682102138 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao19.c
+	<stdio.h>
+	"questao19.h"
+
+1682102138 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao19.h
+
+1682102486 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao20.c
+	<stdio.h>
+	"questao20.h"
+
+1682102486 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao20.h
+
+1682102832 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao21.c
+	<stdio.h>
+	<stdlib.h>
+	"questao21.h"
+
+1682102832 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao21.h
+
+1682103080 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao22.c
+	<stdio.h>
+	<string.h>
+	"questao22.h"
+
+1682103080 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao22.h
+
+1682103440 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao23.h
+
+1682103534 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao23.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao23.h"
+
+1682103826 source:e:\docs flavio\docs de estudo\estudos_c\lista_01\questao24.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"questao24.h"
+
+1682103828 e:\docs flavio\docs de estudo\estudos_c\lista_01\questao24.h
+

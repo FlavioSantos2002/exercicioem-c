@@ -1,0 +1,6 @@
+#ifndef QUESTAO19_H_INCLUDED
+#define QUESTAO19_H_INCLUDED
+
+int questao19();
+
+#endif // QUESTAO19_H_INCLUDED
